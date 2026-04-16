@@ -28,7 +28,7 @@ from bs4 import BeautifulSoup, Tag
 # Konfiguration
 # ---------------------------------------------------------------------------
 
-VAULT_KURSPLANER = Path(__file__).resolve().parent / "vault-comp-26" / "07 Kursplaner"
+VAULT_KURSPLANER = Path(__file__).resolve().parent / "vault-uku" / "02 Kursplaner"
 SV_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"
 EN_URL = "https://www.du.se/en/study-at-du/kurser/syllabus/?code={code}"
 REQUEST_DELAY = 1.0  # sekunder mellan anrop, var vänlig mot servern

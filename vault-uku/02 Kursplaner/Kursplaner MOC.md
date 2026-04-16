@@ -6,14 +6,8 @@ up: "[[UKU Dashboard]]"
 
 # Kursplaner MOC
 
-> Samtliga kursplaner under granskning vid UKU.
+> Samtliga kursplaner vid IIT organiserade per ämne.
 
-## Kursplaner per ämne
+## Ämnen
 
-### Datateknik (DT1)
-
-> [!todo] Se [[02 Kursplaner/DT1/|DT1-mappen]]
-
-### Informatik (IF1)
-
-> [!todo] Se [[02 Kursplaner/IF1/|IF1-mappen]]
+- [[Datateknik MOC|Datateknik]] (1 kurser)
