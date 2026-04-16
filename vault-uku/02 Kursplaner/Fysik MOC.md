@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Fysik]
 tags: [MOC, amne, FYA]
 up: "[[Kursplaner MOC]]"

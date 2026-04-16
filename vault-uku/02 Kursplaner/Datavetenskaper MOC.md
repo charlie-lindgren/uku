@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Datavetenskaper]
 tags: [MOC, amne, DVE]
 up: "[[Kursplaner MOC]]"

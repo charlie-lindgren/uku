@@ -1,4 +1,5 @@
 ---
+cssclasses: [okategoriserad]
 aliases: [Okategoriserade Mikrodataanalys]
 tags: [MOC, okategoriserad, XYZ]
 up: "[[Mikrodataanalys MOC]]"

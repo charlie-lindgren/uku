@@ -1,4 +1,5 @@
 ---
+cssclasses: [okategoriserad]
 tags:
   - kursplan
   - DTA

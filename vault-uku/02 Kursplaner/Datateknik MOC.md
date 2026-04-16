@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Datateknik]
 tags: [MOC, amne, DTA]
 up: "[[Kursplaner MOC]]"

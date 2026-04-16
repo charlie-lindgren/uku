@@ -1,4 +1,5 @@
 ---
+cssclasses: [okategoriserad]
 aliases: [Okategoriserade Datateknik]
 tags: [MOC, okategoriserad, DTA]
 up: "[[Datateknik MOC]]"

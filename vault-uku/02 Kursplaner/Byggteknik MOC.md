@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Byggteknik]
 tags: [MOC, amne, BYA]
 up: "[[Kursplaner MOC]]"

@@ -1,4 +1,5 @@
 ---
+cssclasses: [okategoriserad]
 aliases: [Okategoriserade Informatik]
 tags: [MOC, okategoriserad, IKA]
 up: "[[Informatik MOC]]"

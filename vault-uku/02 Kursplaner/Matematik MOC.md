@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Matematik]
 tags: [MOC, amne, MAA]
 up: "[[Kursplaner MOC]]"

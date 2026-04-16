@@ -195,14 +195,35 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color — matches Obsidian graph color groups
+  // calculate color — UKU graph color scheme
+  // Design: muted, professional palette. Okategoriserade stands out in warm red.
+  // MOCs get a slightly brighter accent. Subject courses are subtle, differentiated
+  // by a restrained analogous palette. Everything else fades to gray.
   const colorGroups: { test: (d: NodeData) => boolean; color: string }[] = [
-    { test: (d) => d.tags.includes("MOC"), color: "#F39C12" },           // Guld — MOC-nav
-    { test: (d) => d.id.startsWith("08-Program/"), color: "#8E44AD" },   // Violett — Program
-    { test: (d) => d.tags.includes("DT1"), color: "#E67E22" },           // Orange — Datateknik
-    { test: (d) => d.tags.includes("IF1"), color: "#16A085" },           // Teal — Informatik
-    { test: (d) => d.tags.includes("möten"), color: "#7F8C8D" },         // Grå — Möten
-    { test: (d) => d.tags.includes("sakkunniga"), color: "#C0392B" },    // Röd — Sakkunniga
+    // Okategoriserade — warm red, clearly flagged
+    { test: (d) => d.tags.includes("okategoriserad"), color: "#c0392b" },
+
+    // Structural MOCs — muted gold
+    { test: (d) => d.tags.includes("MOC"), color: "#d4a843" },
+
+    // Subject courses — subtle, analogous cool tones
+    { test: (d) => d.tags.includes("BYA"), color: "#8a9a5b" },   // sage
+    { test: (d) => d.tags.includes("DTA"), color: "#5b8a9a" },   // steel blue
+    { test: (d) => d.tags.includes("DVE"), color: "#6b8fa3" },   // slate
+    { test: (d) => d.tags.includes("ETA"), color: "#7a8b99" },   // cool gray-blue
+    { test: (d) => d.tags.includes("MÖY"), color: "#7b9a6b" },   // fern
+    { test: (d) => d.tags.includes("FYA"), color: "#9a8a6b" },   // khaki
+    { test: (d) => d.tags.includes("IEA"), color: "#9a7b6b" },   // sienna
+    { test: (d) => d.tags.includes("IKA"), color: "#6b7b9a" },   // lavender steel
+    { test: (d) => d.tags.includes("MTA"), color: "#7b8a7b" },   // muted olive
+    { test: (d) => d.tags.includes("MAA"), color: "#8a7b8a" },   // mauve
+    { test: (d) => d.tags.includes("MDI"), color: "#8a8a7b" },   // warm gray
+    { test: (d) => d.tags.includes("XYZ"), color: "#6b8a8a" },   // teal-gray
+    { test: (d) => d.tags.includes("SQQ"), color: "#8a7b6b" },   // stone
+    { test: (d) => d.tags.includes("STA"), color: "#7b6b8a" },   // plum-gray
+
+    // Möten, organisation — fade to background
+    { test: (d) => d.tags.includes("möten"), color: "#8e9298" },
   ]
   const color = (d: NodeData) => {
     if (d.id === slug) {
@@ -218,12 +239,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    // boost key structural nodes
-    const isDashboard = d.id.includes("COMP26-Dashboard")
-    const isProgramme = /^08-Program\/[A-Z]+$/.test(d.id) // GDW, SY, IT etc (not years)
-    const isYear = /^08-Program\/.*År/.test(d.id)
+    const isDashboard = d.id.includes("UKU-Dashboard") || d.id.includes("UKU Dashboard")
     const isMOC = d.tags.includes("MOC")
-    const boost = isDashboard ? 10 : isProgramme ? 6 : (isYear || isMOC) ? 3 : 0
+    const isOkategoriserad = d.tags.includes("okategoriserad")
+    const boost = isDashboard ? 8 : isMOC ? 3 : isOkategoriserad ? 1 : 0
     return 5 + boost + Math.sqrt(numLinks)
   }
 

@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Elektroteknik]
 tags: [MOC, amne, ETA]
 up: "[[Kursplaner MOC]]"

@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Statistik]
 tags: [MOC, amne, STA]
 up: "[[Kursplaner MOC]]"

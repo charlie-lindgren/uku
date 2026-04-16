@@ -1,3 +1,52 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ── UKU custom styles ──────────────────────────────────────────────
+
+// Okategoriserade course pages — warm red accent strip on the left
+// Triggered via frontmatter: cssclasses: [okategoriserad]
+article.okategoriserad {
+  border-left: 3px solid #c0392b;
+  padding-left: 1rem;
+
+  // Subtle background tint in the header area
+  & > h1:first-of-type {
+    color: #c0392b;
+  }
+}
+
+// Dark mode adjustment
+:root[saved-theme="dark"] article.okategoriserad {
+  border-left-color: #e05a4b;
+
+  & > h1:first-of-type {
+    color: #e05a4b;
+  }
+}
+
+// MOC pages — subtle gold accent
+article.moc-page {
+  border-left: 3px solid #d4a843;
+  padding-left: 1rem;
+}
+
+:root[saved-theme="dark"] article.moc-page {
+  border-left-color: #e0b850;
+}
+
+// Okategoriserade section heading in subject MOCs
+h2#okategoriserade {
+  color: #c0392b;
+  font-size: 0.95em;
+  letter-spacing: 0.02em;
+  opacity: 0.85;
+  margin-top: 2.5rem;
+
+  &::before {
+    content: "⚠ ";
+    font-size: 0.85em;
+  }
+}
+
+:root[saved-theme="dark"] h2#okategoriserade {
+  color: #e05a4b;
+}

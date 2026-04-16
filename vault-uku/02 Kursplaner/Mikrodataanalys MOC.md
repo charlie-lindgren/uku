@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Mikrodataanalys]
 tags: [MOC, amne, XYZ]
 up: "[[Kursplaner MOC]]"

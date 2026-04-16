@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Samhällsbyggnadsteknik]
 tags: [MOC, amne, SQQ]
 up: "[[Kursplaner MOC]]"

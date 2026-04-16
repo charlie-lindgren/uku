@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Industriell ekonomi]
 tags: [MOC, amne, IEA]
 up: "[[Kursplaner MOC]]"

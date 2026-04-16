@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Energiteknik]
 tags: [MOC, amne, MÖY]
 up: "[[Kursplaner MOC]]"

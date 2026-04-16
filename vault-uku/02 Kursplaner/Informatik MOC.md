@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Informatik]
 tags: [MOC, amne, IKA]
 up: "[[Kursplaner MOC]]"

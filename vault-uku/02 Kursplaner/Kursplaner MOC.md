@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Kursplaner, Kurser]
 tags: [kursplaner, MOC]
 up: "[[UKU Dashboard]]"

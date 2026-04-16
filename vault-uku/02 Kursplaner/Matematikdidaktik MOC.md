@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Matematikdidaktik]
 tags: [MOC, amne, MDI]
 up: "[[Kursplaner MOC]]"

@@ -1,4 +1,5 @@
 ---
+cssclasses: [moc-page]
 aliases: [Maskinteknik]
 tags: [MOC, amne, MTA]
 up: "[[Kursplaner MOC]]"
