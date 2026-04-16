@@ -2,9 +2,9 @@
 
 // ── UKU custom styles ──────────────────────────────────────────────
 
-// Okategoriserade course pages — warm red accent strip on the left
-// Triggered via frontmatter: cssclasses: [okategoriserad]
-article.okategoriserad {
+// Ej Aktiv course pages — warm red accent strip on the left
+// Triggered via frontmatter: cssclasses: [ej-aktiv]
+article.ej-aktiv {
   border-left: 3px solid #c0392b;
   padding-left: 1rem;
 
@@ -15,7 +15,7 @@ article.okategoriserad {
 }
 
 // Dark mode adjustment
-:root[saved-theme="dark"] article.okategoriserad {
+:root[saved-theme="dark"] article.ej-aktiv {
   border-left-color: #e05a4b;
 
   & > h1:first-of-type {
@@ -33,8 +33,8 @@ article.moc-page {
   border-left-color: #e0b850;
 }
 
-// Okategoriserade section heading in subject MOCs
-h2#okategoriserade {
+// Ej Aktiv section heading in subject MOCs
+h2#ej-aktiv {
   color: #c0392b;
   font-size: 0.95em;
   letter-spacing: 0.02em;
@@ -47,6 +47,6 @@ h2#okategoriserade {
   }
 }
 
-:root[saved-theme="dark"] h2#okategoriserade {
+:root[saved-theme="dark"] h2#ej-aktiv {
   color: #e05a4b;
 }

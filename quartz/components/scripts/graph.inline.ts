@@ -196,12 +196,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
 
   // calculate color — UKU graph color scheme
-  // Design: muted, professional palette. Okategoriserade stands out in warm red.
+  // Design: muted, professional palette. Ej Aktiv stands out in warm red.
   // MOCs get a slightly brighter accent. Subject courses are subtle, differentiated
   // by a restrained analogous palette. Everything else fades to gray.
   const colorGroups: { test: (d: NodeData) => boolean; color: string }[] = [
-    // Okategoriserade — warm red, clearly flagged
-    { test: (d) => d.tags.includes("okategoriserad"), color: "#c0392b" },
+    // Ej Aktiv — warm red, clearly flagged
+    { test: (d) => d.tags.includes("ej-aktiv"), color: "#c0392b" },
 
     // Structural MOCs — muted gold
     { test: (d) => d.tags.includes("MOC"), color: "#d4a843" },
@@ -241,8 +241,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     ).length
     const isDashboard = d.id.includes("UKU-Dashboard") || d.id.includes("UKU Dashboard")
     const isMOC = d.tags.includes("MOC")
-    const isOkategoriserad = d.tags.includes("okategoriserad")
-    const boost = isDashboard ? 8 : isMOC ? 3 : isOkategoriserad ? 1 : 0
+    const isEjAktiv = d.tags.includes("ej-aktiv")
+    const boost = isDashboard ? 8 : isMOC ? 3 : isEjAktiv ? 1 : 0
     return 5 + boost + Math.sqrt(numLinks)
   }
 
