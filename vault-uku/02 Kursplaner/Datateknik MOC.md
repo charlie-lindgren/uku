@@ -9,6 +9,9 @@ up: "[[Kursplaner MOC]]"
 > Ämne vid IIT, Högskolan Dalarna.
 > Huvudområde: Datateknik (DTADU)
 
-## Kurser (1 st)
+## Kurser (4 st)
 
+- [[GDT2JM]] — Datakommunikation 1
+- [[GDT2JN]] — Datakommunikation 2
+- [[GDT34Z]] — Nätverkssäkerhet och systemadministration
 - [[GDT3CR]] — Etisk hackning
