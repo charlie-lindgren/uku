@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/plugins/
+**/.obsidian/themes/
+**/.obsidian/hotkeys.json
+**/.obsidian/core-plugins-migration.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Quartz
+node_modules/
+public/
+.quartz-cache
+tsconfig.tsbuildinfo
