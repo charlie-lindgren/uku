@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "E-samhället: e-förvaltning och digitala tjänster"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 6d3c203ad32bec41
 ---
 

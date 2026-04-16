@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Etisk hackning"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 0ba9841db97d7006
 ---
 

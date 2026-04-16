@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Hård infrastruktur"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 9dd486cf0d834af0
 ---
 

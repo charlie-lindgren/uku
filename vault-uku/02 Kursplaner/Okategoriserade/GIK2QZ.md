@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Visuell identitet"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 40914970708f077c
 ---
 

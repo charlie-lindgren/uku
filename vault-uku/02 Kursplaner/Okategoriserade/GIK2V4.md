@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Datasäkerhet och integritet"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 0c284dbbebe7e446
 ---
 

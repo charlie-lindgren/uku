@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Applikationsutveckling och testning"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 347dbe180a54d9dc
 ---
 

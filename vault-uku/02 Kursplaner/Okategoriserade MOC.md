@@ -1,10 +1,10 @@
 ---
-aliases: [Aktiv kurs?]
+aliases: [Okategoriserade]
 tags: [MOC, okategoriserad]
 up: "[[Kursplaner MOC]]"
 ---
 
-# Aktiv kurs?
+# Okategoriserade
 
 > Kurser som finns i vaultens kursplaner men som **inte längre syns** i du.se:s kursutbud per ämne. Möjligen avvecklade, vilande eller omklassificerade.
 

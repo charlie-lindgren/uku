@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Relationsdatabaser"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: ab2cf781cc6e1629
 ---
 

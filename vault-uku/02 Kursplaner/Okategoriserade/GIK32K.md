@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Layout och typografi"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 125f15c30b456aab
 ---
 

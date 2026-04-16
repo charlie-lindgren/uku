@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Programutvecklingsteknik"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 06efd04606e76846
 ---
 

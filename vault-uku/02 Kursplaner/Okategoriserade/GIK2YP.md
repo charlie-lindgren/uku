@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Webbdesign"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: c0416536e047c306
 ---
 

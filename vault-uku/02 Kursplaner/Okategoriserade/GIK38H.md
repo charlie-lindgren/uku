@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Introduktion till IT och digitala tjänster"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: bd4e76f83f9bc182
 ---
 

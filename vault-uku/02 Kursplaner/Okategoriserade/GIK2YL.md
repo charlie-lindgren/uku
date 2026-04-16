@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Projekt och agila arbetsmetoder"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: c58a8bf425ef285d
 ---
 

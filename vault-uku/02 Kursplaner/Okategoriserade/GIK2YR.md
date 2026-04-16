@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Designprinciper och användargränssnitt"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: aa711e3922356ee2
 ---
 

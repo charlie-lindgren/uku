@@ -33,4 +33,4 @@ up: "[[UKU Dashboard]]"
 
 ## Övrigt
 
-- [[Aktiv kurs MOC|Aktiv kurs?]] (30 kurser)
+- [[Okategoriserade MOC|Okategoriserade]] (30 kurser)

@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Datainsamling och datakvalitet"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: cf1131f86a96141e
 ---
 

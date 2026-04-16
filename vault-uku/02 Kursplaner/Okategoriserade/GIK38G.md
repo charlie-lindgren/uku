@@ -4,7 +4,7 @@ tags:
   - okategoriserad
 aliases:
   - "Design av digitala tjänster"
-up: "[[Aktiv kurs MOC]]"
+up: "[[Okategoriserade MOC]]"
 scrape_hash: 0cb3707e63d3e8b6
 ---
 
