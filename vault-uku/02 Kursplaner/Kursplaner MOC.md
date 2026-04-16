@@ -30,3 +30,7 @@ up: "[[UKU Dashboard]]"
 - [[Data Analytics MOC|Data Analytics]] (0 kurser)
 - [[Energisystem i byggd miljö MOC|Energisystem i byggd miljö]] (0 kurser)
 - [[Mikrodataanalys MOC|Mikrodataanalys]] (0 kurser)
+
+## Övrigt
+
+- [[Aktiv kurs MOC|Aktiv kurs?]] (30 kurser)
