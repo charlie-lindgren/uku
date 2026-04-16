@@ -55,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 0.5,            // label scale multiplier; ~1.0 = normal, lower = larger labels
         linkDistance: 50,      // target distance between linked nodes (px); default 30
         repelForce: 1,       // how strongly nodes push apart; default 0.5, higher = more spread
-        centerForce: 0.01,      // how strongly nodes pull toward center; default 0.2, keep low (0.1–1.0)
+        centerForce: 0.3,      // how strongly nodes pull toward center; default 0.2, keep low (0.1–1.0)
         fontSize: 0.5,         // label size multiplier; default 0.6
         opacityScale: 1.5,       // zoom level at which labels become visible; higher = need more zoom
         enableRadial: true
