@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
-aliases: [Okategoriserade Mikrodataanalys]
-tags: [MOC, okategoriserad, XYZ]
+cssclasses: [ej-aktiv]
+aliases: [Ej Aktiv Mikrodataanalys]
+tags: [MOC, ej-aktiv, XYZ]
 up: "[[Mikrodataanalys MOC]]"
 ---
 
-# Okategoriserade — Mikrodataanalys
+# Ej Aktiv — Mikrodataanalys
 
 > Kurser inom Mikrodataanalys som inte längre syns i du.se:s kursutbud. Möjligen avvecklade, vilande eller omklassificerade.
 

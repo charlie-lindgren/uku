@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - IKA
 aliases:
   - "Visuell identitet"
-up: "[[Okategoriserade Informatik MOC]]"
+up: "[[Ej Aktiv Informatik MOC]]"
 scrape_hash: 40914970708f077c
 ---
 

@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - IKA
 aliases:
   - "Applikationsutveckling och testning"
-up: "[[Okategoriserade Informatik MOC]]"
+up: "[[Ej Aktiv Informatik MOC]]"
 scrape_hash: 347dbe180a54d9dc
 ---
 

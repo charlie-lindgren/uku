@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - IKA
 aliases:
   - "Webbdesign"
-up: "[[Okategoriserade Informatik MOC]]"
+up: "[[Ej Aktiv Informatik MOC]]"
 scrape_hash: c0416536e047c306
 ---
 

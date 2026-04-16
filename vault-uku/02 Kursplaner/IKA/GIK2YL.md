@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - IKA
 aliases:
   - "Projekt och agila arbetsmetoder"
-up: "[[Okategoriserade Informatik MOC]]"
+up: "[[Ej Aktiv Informatik MOC]]"
 scrape_hash: c58a8bf425ef285d
 ---
 

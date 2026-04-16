@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - IKA
 aliases:
   - "Design av digitala tjänster"
-up: "[[Okategoriserade Informatik MOC]]"
+up: "[[Ej Aktiv Informatik MOC]]"
 scrape_hash: 0cb3707e63d3e8b6
 ---
 

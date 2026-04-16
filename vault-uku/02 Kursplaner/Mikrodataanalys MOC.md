@@ -34,6 +34,6 @@ up: "[[Kursplaner MOC]]"
 - [[MI4001]] — Examensarbete för masterexamen i mikrodataanalys
 - [[MI4002]] — Examensarbete för masterexamen i mikrodataanalys
 
-## Okategoriserade
+## Ej Aktiv
 
-- [[Okategoriserade Mikrodataanalys MOC|5 kurser som inte längre syns i du.se:s kursutbud]]
+- [[Ej Aktiv Mikrodataanalys MOC|5 kurser som inte längre syns i du.se:s kursutbud]]

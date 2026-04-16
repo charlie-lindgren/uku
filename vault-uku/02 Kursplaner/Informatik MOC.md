@@ -46,6 +46,6 @@ up: "[[Kursplaner MOC]]"
 - [[GIK38J]] — Visualisering
 - [[GIK3BY]] — Examensarbete för Högskoleexamen i Informatik
 
-## Okategoriserade
+## Ej Aktiv
 
-- [[Okategoriserade Informatik MOC|23 kurser som inte längre syns i du.se:s kursutbud]]
+- [[Ej Aktiv Informatik MOC|23 kurser som inte längre syns i du.se:s kursutbud]]

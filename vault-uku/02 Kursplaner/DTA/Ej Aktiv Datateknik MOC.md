@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
-aliases: [Okategoriserade Datateknik]
-tags: [MOC, okategoriserad, DTA]
+cssclasses: [ej-aktiv]
+aliases: [Ej Aktiv Datateknik]
+tags: [MOC, ej-aktiv, DTA]
 up: "[[Datateknik MOC]]"
 ---
 
-# Okategoriserade — Datateknik
+# Ej Aktiv — Datateknik
 
 > Kurser inom Datateknik som inte längre syns i du.se:s kursutbud. Möjligen avvecklade, vilande eller omklassificerade.
 

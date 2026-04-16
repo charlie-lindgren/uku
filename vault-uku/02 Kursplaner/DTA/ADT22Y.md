@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - DTA
 aliases:
   - "Etisk hackning"
-up: "[[Okategoriserade Datateknik MOC]]"
+up: "[[Ej Aktiv Datateknik MOC]]"
 scrape_hash: 0ba9841db97d7006
 ---
 

@@ -17,6 +17,6 @@ up: "[[Kursplaner MOC]]"
 - [[GDT34Z]] — Nätverkssäkerhet och systemadministration
 - [[GDT3CR]] — Etisk hackning
 
-## Okategoriserade
+## Ej Aktiv
 
-- [[Okategoriserade Datateknik MOC|2 kurser som inte längre syns i du.se:s kursutbud]]
+- [[Ej Aktiv Datateknik MOC|2 kurser som inte längre syns i du.se:s kursutbud]]

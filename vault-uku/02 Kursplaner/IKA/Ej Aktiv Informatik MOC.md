@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
-aliases: [Okategoriserade Informatik]
-tags: [MOC, okategoriserad, IKA]
+cssclasses: [ej-aktiv]
+aliases: [Ej Aktiv Informatik]
+tags: [MOC, ej-aktiv, IKA]
 up: "[[Informatik MOC]]"
 ---
 
-# Okategoriserade — Informatik
+# Ej Aktiv — Informatik
 
 > Kurser inom Informatik som inte längre syns i du.se:s kursutbud. Möjligen avvecklade, vilande eller omklassificerade.
 

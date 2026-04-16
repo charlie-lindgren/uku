@@ -1,11 +1,11 @@
 ---
-cssclasses: [okategoriserad]
+cssclasses: [ej-aktiv]
 tags:
   - kursplan
   - XYZ
 aliases:
   - "Datainsamling och datakvalitet"
-up: "[[Okategoriserade Mikrodataanalys MOC]]"
+up: "[[Ej Aktiv Mikrodataanalys MOC]]"
 scrape_hash: cf1131f86a96141e
 ---
 
