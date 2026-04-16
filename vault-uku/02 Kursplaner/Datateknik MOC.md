@@ -15,3 +15,7 @@ up: "[[Kursplaner MOC]]"
 - [[GDT2JN]] — Datakommunikation 2
 - [[GDT34Z]] — Nätverkssäkerhet och systemadministration
 - [[GDT3CR]] — Etisk hackning
+
+## Okategoriserade
+
+- [[Okategoriserade Datateknik MOC|2 kurser som inte längre syns i du.se:s kursutbud]]

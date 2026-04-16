@@ -1,10 +1,10 @@
 ---
 tags:
   - kursplan
-  - okategoriserad
+  - IKA
 aliases:
   - "Webbdesign"
-up: "[[Okategoriserade MOC]]"
+up: "[[Okategoriserade Informatik MOC]]"
 scrape_hash: c0416536e047c306
 ---
 

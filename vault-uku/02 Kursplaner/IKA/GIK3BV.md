@@ -1,10 +1,10 @@
 ---
 tags:
   - kursplan
-  - okategoriserad
+  - IKA
 aliases:
   - "E-samhället: e-förvaltning och digitala tjänster"
-up: "[[Okategoriserade MOC]]"
+up: "[[Okategoriserade Informatik MOC]]"
 scrape_hash: 6d3c203ad32bec41
 ---
 

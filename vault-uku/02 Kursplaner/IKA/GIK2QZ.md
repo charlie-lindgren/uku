@@ -1,10 +1,10 @@
 ---
 tags:
   - kursplan
-  - okategoriserad
+  - IKA
 aliases:
   - "Visuell identitet"
-up: "[[Okategoriserade MOC]]"
+up: "[[Okategoriserade Informatik MOC]]"
 scrape_hash: 40914970708f077c
 ---
 

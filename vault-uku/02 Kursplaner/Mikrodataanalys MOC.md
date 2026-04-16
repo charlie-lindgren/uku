@@ -32,3 +32,7 @@ up: "[[Kursplaner MOC]]"
 - [[GMI35S]] — Skriptprogrammering
 - [[MI4001]] — Examensarbete för masterexamen i mikrodataanalys
 - [[MI4002]] — Examensarbete för masterexamen i mikrodataanalys
+
+## Okategoriserade
+
+- [[Okategoriserade Mikrodataanalys MOC|5 kurser som inte längre syns i du.se:s kursutbud]]

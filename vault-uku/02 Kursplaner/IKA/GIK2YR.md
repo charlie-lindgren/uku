@@ -1,10 +1,10 @@
 ---
 tags:
   - kursplan
-  - okategoriserad
+  - IKA
 aliases:
   - "Designprinciper och användargränssnitt"
-up: "[[Okategoriserade MOC]]"
+up: "[[Okategoriserade Informatik MOC]]"
 scrape_hash: aa711e3922356ee2
 ---
 

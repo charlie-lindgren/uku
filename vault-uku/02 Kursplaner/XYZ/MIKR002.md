@@ -1,10 +1,10 @@
 ---
 tags:
   - kursplan
-  - okategoriserad
+  - XYZ
 aliases:
   - "Datainsamling och datakvalitet"
-up: "[[Okategoriserade MOC]]"
+up: "[[Okategoriserade Mikrodataanalys MOC]]"
 scrape_hash: cf1131f86a96141e
 ---
 

@@ -1,10 +1,10 @@
 ---
 tags:
   - kursplan
-  - okategoriserad
+  - IKA
 aliases:
   - "Datasäkerhet och integritet"
-up: "[[Okategoriserade MOC]]"
+up: "[[Okategoriserade Informatik MOC]]"
 scrape_hash: 0c284dbbebe7e446
 ---
 

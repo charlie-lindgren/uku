@@ -1,21 +1,15 @@
 ---
-aliases: [Okategoriserade]
-tags: [MOC, okategoriserad]
-up: "[[Kursplaner MOC]]"
+aliases: [Okategoriserade Informatik]
+tags: [MOC, okategoriserad, IKA]
+up: "[[Informatik MOC]]"
 ---
 
-# Okategoriserade
+# Okategoriserade — Informatik
 
-> Kurser som finns i vaultens kursplaner men som **inte längre syns** i du.se:s kursutbud per ämne. Möjligen avvecklade, vilande eller omklassificerade.
+> Kurser inom Informatik som inte längre syns i du.se:s kursutbud. Möjligen avvecklade, vilande eller omklassificerade.
 
-## Kurser (30 st)
+## Kurser (23 st)
 
-- [[ADT22Y]] — Etisk hackning
-- [[DT2019]] — Biometriska äkthetsbevisningar
-- [[FMI2222]] — Ledarskapets ekonomi för forskarstuderande
-- [[FMI2223]] — Komplexitet och operationsanalytiska metoder för forskarstuderande
-- [[FMI2224]] — Statistisk- och maskininlärning
-- [[FMI2229]] — Introduktion till strukturella ekvationsmodeller
 - [[GIK289]] — Objektorienterad programmering och problemlösning
 - [[GIK2PD]] — Hård infrastruktur
 - [[GIK2QZ]] — Visuell identitet
@@ -39,4 +33,3 @@ up: "[[Kursplaner MOC]]"
 - [[IK1044]] — Hård Infrastruktur
 - [[IK1064]] — Datahantering och Problemlösning
 - [[IK1066]] — Förändringsanalys
-- [[MIKR002]] — Datainsamling och datakvalitet

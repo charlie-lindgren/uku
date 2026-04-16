@@ -44,3 +44,7 @@ up: "[[Kursplaner MOC]]"
 - [[GIK373]] — Informationsdesign
 - [[GIK38J]] — Visualisering
 - [[GIK3BY]] — Examensarbete för Högskoleexamen i Informatik
+
+## Okategoriserade
+
+- [[Okategoriserade Informatik MOC|23 kurser som inte längre syns i du.se:s kursutbud]]

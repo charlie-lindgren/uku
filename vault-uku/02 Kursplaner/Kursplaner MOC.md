@@ -31,6 +31,4 @@ up: "[[UKU Dashboard]]"
 - [[Energisystem i byggd miljö MOC|Energisystem i byggd miljö]] (0 kurser)
 - [[Mikrodataanalys MOC|Mikrodataanalys]] (0 kurser)
 
-## Övrigt
 
-- [[Okategoriserade MOC|Okategoriserade]] (30 kurser)
